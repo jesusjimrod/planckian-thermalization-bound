@@ -112,7 +112,3 @@ model uses the same ball $\beta\delta=2\pi$. These are collected, with the formu
 them, at the top of `planckian.py`.
 
 Equation, figure and section numbers in the notebooks refer to the manuscript.
-
-## License
-
-MIT. See `LICENSE`.
