@@ -1,0 +1,10 @@
+ case                                  N  |core-sym|  |core-one_sided|  |core-sym^T|  |raw_oqupy-sym|
+ h=(0.84, 0.0, 0.54) a=0.2 wc=10.0 b=1.0 N= 8  3.16e-15   3.54e-03         3.16e-15     1.74e-04  ok=True
+ h=(0.84, 0.0, 0.54) a=0.5 wc=10.0 b=1.0 N=10  5.65e-15   4.39e-03         5.65e-15     1.39e-04  ok=True
+ h=(0.7, 0.4, 0.3) a=0.3 wc=10.0 b=1.0 N= 9  3.72e-15   2.14e-03         6.92e-02     6.93e-02  ok=True
+ h=(1.0, 0.0, 0.0) a=1.0 wc=5.0 b=2.0 N=10  7.70e-16   7.70e-16         7.70e-16     1.14e-04  ok=True
+ h=(0.3, 0.0, 0.9) a=2.0 wc=10.0 b=0.5 N= 8  6.11e-16   9.11e-04         6.11e-16     9.50e-08  ok=True
+failure control 'one_sided': max deviation 4.39e-03 -> rejected (good)
+failure control 'sym_transposed': max deviation 6.92e-02 -> rejected (good)
+failure control 'raw_oqupy': max deviation 6.93e-02 -> rejected (good)
+RESULT: PASS

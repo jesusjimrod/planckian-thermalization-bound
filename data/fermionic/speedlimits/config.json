@@ -1,0 +1,69 @@
+{
+ "units": "hbar=beta=1; g^2 = hybridization at the Fermi level; Lorentzian width Lambda in k_BT; times in tau_Pl",
+ "families": {
+  "rlm": "H(x)=x n_d, |x|<=delta, p(0)=1/2",
+  "dqd": "h(x)=diag(1.2,1.0)+x N_S/2, |x|<=delta, (1,0)"
+ },
+ "delta": 6.283185307179586,
+ "eps_fractions": [
+  0.01,
+  0.05,
+  0.1,
+  0.15,
+  0.2
+ ],
+ "K": 21,
+ "widths": [
+  100.0,
+  1000.0,
+  10000.0,
+  100000.0,
+  1000000.0,
+  100000000.0
+ ],
+ "g2_base": [
+  0.01,
+  0.014677992676220698,
+  0.021544346900318832,
+  0.03162277660168379,
+  0.046415888336127774,
+  0.06812920690579612,
+  0.1,
+  0.1467799267622069,
+  0.21544346900318834,
+  0.31622776601683794,
+  0.46415888336127775,
+  0.6812920690579611,
+  1.0,
+  1.467799267622069,
+  2.154434690031882,
+  3.1622776601683795,
+  4.6415888336127775,
+  6.812920690579608,
+  10.0,
+  14.67799267622069,
+  21.54434690031882,
+  31.622776601683793,
+  46.41588833612777,
+  68.12920690579608,
+  100.0,
+  146.77992676220674,
+  215.44346900318823,
+  316.22776601683796,
+  464.1588833612773,
+  681.2920690579608,
+  1000.0
+ ],
+ "wb_regime_flag": "Lambda >= 100 max(g^2, max|level energy|, k_BT)",
+ "hashes": {
+  "compute.py": "16625db55d426aa3e4254e9304dbe8e0c00a3a799c3e4e7577f79d56c7af94aa",
+  "runner.py": "9ce4f0cfbf895be858c9ef4e87b23465cb3ae0e4ef65febbfcdd284d08dce957",
+  "benchmark.py": "ef1dbad5957155513f059a38c55345bd391a15e9443a659baa8c56cabe8ee101",
+  "wideband_reference.py": "578fed107a094472e1280e34952b7f40f85ac178340d078acee1b79777409d33",
+  "dqd_diagnostics.py": "4f8ac104d3d0ad832f599be4babe7aded1ec88b419740c310546b2d2e0944e13",
+  "continuum.py": "65c50508e9c3245a9f912a7c1e631a59d7ff7686bafa9cda5ac3c5164333f916",
+  "wideband.py": "a5f7d64dd4050c4046eef0872378b88bc238e144716b2abced441b892e5dd2f7",
+  "rlm_thresholds.py": "90eac7447b07334a350737dcbb49e0bec372f0e74dab4e9b43b6b1410b1e8e87",
+  "model_parameters.py": "94e8e2e8dc65d389e3c8f14e38a69a7f9dafb4a3653cbf8e474e5df12804eae0"
+ }
+}

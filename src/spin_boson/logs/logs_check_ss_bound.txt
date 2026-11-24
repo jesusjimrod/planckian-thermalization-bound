@@ -1,0 +1,9 @@
+top Fock population (truncation): 9.5e-21
+(I1) max |<P_w> - response| = 6.69e-04  (tol 2e-03)
+(I2) max |<[A,Y]> - i(2W+<perp P>)| = 4.75e-12  (tol 1e-8)
+(B1) min slack (p0+2X) - <P^2>^1/2 = +0.000e+00  (must be >= 0)
+(B2) min slack dE - L = +7.903e-01  (must be >= 0); times with L > 0: 28/241
+failure control 'sin': deviation 1.75e+00 -> rejected (good)
+failure control 'half': deviation 4.59e-01 -> rejected (good)
+failure control 'noHS': deviation 9.25e-01 -> rejected (good)
+RESULT: PASS

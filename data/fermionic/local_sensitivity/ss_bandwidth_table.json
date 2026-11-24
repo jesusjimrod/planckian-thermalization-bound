@@ -1,0 +1,58 @@
+{
+  "widths": [
+    100.0,
+    1000.0,
+    10000.0,
+    100000.0,
+    1000000.0,
+    100000000.0
+  ],
+  "g_squared": [
+    0.1,
+    1.0,
+    10.0,
+    100.0,
+    1000.0
+  ],
+  "precisions": [
+    0.01,
+    0.05,
+    0.1
+  ],
+  "rlm": {
+    "energies": [
+      0,
+      3
+    ],
+    "p0": 0.5
+  },
+  "dqd": {
+    "means": [
+      1.1,
+      2.35
+    ],
+    "delta": 0.2,
+    "occupations": [
+      1,
+      0
+    ]
+  },
+  "beta": 1.0,
+  "hbar": 1.0,
+  "ss_definition": "Shiraishi-Saito PRR 3,023074 Eq.(6): L(rho_S(0),rho_S(tau))<=hbar^-1 int dE_S, E_S=H_S+V in joint state; numerator [D(rho0,target)-eps]_+; static: dE_S<=||H_S+V||/2",
+  "our_bound": "2[D(target1,target2)-2eps]_+/||H1-H2||, RLM ||.||=3, DQD ||.||=2.5",
+  "wb_regime_flag": "Lambda>=100*max(g^2,|E2|=3,k_BT=1)",
+  "state_budget": 0.0007853981633974483,
+  "time_budget": 0.005,
+  "engine_hashes": {
+    "runner.py": "9ce4f0cfbf895be858c9ef4e87b23465cb3ae0e4ef65febbfcdd284d08dce957",
+    "benchmark.py": "ef1dbad5957155513f059a38c55345bd391a15e9443a659baa8c56cabe8ee101",
+    "wideband_reference.py": "578fed107a094472e1280e34952b7f40f85ac178340d078acee1b79777409d33",
+    "dqd_diagnostics.py": "4f8ac104d3d0ad832f599be4babe7aded1ec88b419740c310546b2d2e0944e13",
+    "continuum.py": "65c50508e9c3245a9f912a7c1e631a59d7ff7686bafa9cda5ac3c5164333f916",
+    "wideband.py": "a5f7d64dd4050c4046eef0872378b88bc238e144716b2abced441b892e5dd2f7",
+    "rlm_thresholds.py": "90eac7447b07334a350737dcbb49e0bec372f0e74dab4e9b43b6b1410b1e8e87",
+    "model_parameters.py": "94e8e2e8dc65d389e3c8f14e38a69a7f9dafb4a3653cbf8e474e5df12804eae0"
+  },
+  "script_hash": "8918ba7062e9a0294c6ea590e554a71bff55c691a6bcc3755a39e08d3a2deb3b"
+}

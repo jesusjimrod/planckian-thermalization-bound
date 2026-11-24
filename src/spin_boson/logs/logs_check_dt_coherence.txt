@@ -1,0 +1,4 @@
+dt=0.05: K=100 (t_K=5)  b_x=-0.223974  MFG b_x=-0.225690  db_x=+1.717e-03  Bures=8.81e-04
+dt=0.025: K=200 (t_K=5)  b_x=-0.225271  MFG b_x=-0.225690  db_x=+4.194e-04  Bures=2.15e-04
+ratio db(0.05)/db(0.025) = 4.09;  dt->0 extrapolated db_x = -1.30e-05
+RESULT: PASS

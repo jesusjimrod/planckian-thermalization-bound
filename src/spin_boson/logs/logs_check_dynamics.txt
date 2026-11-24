@@ -1,0 +1,51 @@
+alpha=0.005  eps=0.01  tau= 2505.468 chi=0.4322 tau_K2= 2525.606 tau_QFI=2421.294 ss_err=1.2e-04 last_exit=   nan  ok
+alpha=0.005  eps=0.05  tau= 1774.348 chi=0.3749 tau_K2= 1777.258 tau_QFI=1529.935 ss_err=1.2e-04 last_exit=   nan  ok
+alpha=0.005  eps=0.1   tau= 1404.090 chi=0.3261 tau_K2= 1405.186 tau_QFI=1200.910 ss_err=1.2e-04 last_exit=   nan  ok
+alpha=0.005  eps=0.15  tau= 1167.530 chi=0.2868 tau_K2= 1168.114 tau_QFI= 989.592 ss_err=1.2e-04 last_exit=   nan  ok
+alpha=0.005  eps=0.2   tau=  991.235 chi=0.2531 tau_K2=  991.597 tau_QFI= 831.678 ss_err=1.2e-04 last_exit=   nan  ok
+alpha=0.01   eps=0.01  tau= 1249.672 chi=0.4329 tau_K2= 1250.905 tau_QFI=1207.094 ss_err=2.9e-04 last_exit=   nan  ok
+alpha=0.01   eps=0.05  tau=  882.455 chi=0.3756 tau_K2=  882.641 tau_QFI= 762.637 ss_err=2.9e-04 last_exit=   nan  ok
+alpha=0.01   eps=0.1   tau=  698.111 chi=0.3267 tau_K2=  698.185 tau_QFI= 598.521 ss_err=2.9e-04 last_exit=   nan  ok
+alpha=0.01   eps=0.15  tau=  580.467 chi=0.2874 tau_K2=  580.509 tau_QFI= 493.240 ss_err=2.9e-04 last_exit=   nan  ok
+alpha=0.01   eps=0.2   tau=  492.813 chi=0.2536 tau_K2=  492.840 tau_QFI= 414.581 ss_err=2.9e-04 last_exit=   nan  ok
+alpha=0.02   eps=0.01  tau=  618.202 chi=0.4344 tau_K2=  618.318 tau_QFI= 596.573 ss_err=2.3e-04 last_exit=   nan  ok
+alpha=0.02   eps=0.05  tau=  436.913 chi=0.3770 tau_K2=  436.951 tau_QFI= 379.430 ss_err=2.3e-04 last_exit=   nan  ok
+alpha=0.02   eps=0.1   tau=  345.749 chi=0.3280 tau_K2=  345.774 tau_QFI= 297.949 ss_err=2.3e-04 last_exit=   nan  ok
+alpha=0.02   eps=0.15  tau=  287.538 chi=0.2885 tau_K2=  287.558 tau_QFI= 245.649 ss_err=2.3e-04 last_exit=   nan  ok
+alpha=0.02   eps=0.2   tau=  244.147 chi=0.2547 tau_K2=  244.163 tau_QFI= 206.564 ss_err=2.3e-04 last_exit=   nan  ok
+alpha=0.05   eps=0.01  tau=  244.601 chi=0.4385 tau_K2=  244.496 tau_QFI= 235.130 ss_err=2.4e-04 last_exit=   nan  ok
+alpha=0.05   eps=0.05  tau=  172.979 chi=0.3807 tau_K2=  172.981 tau_QFI= 152.381 ss_err=2.4e-04 last_exit=   nan  ok
+alpha=0.05   eps=0.1   tau=  136.960 chi=0.3314 tau_K2=  136.970 tau_QFI= 119.802 ss_err=2.4e-04 last_exit=   nan  ok
+alpha=0.05   eps=0.15  tau=  113.947 chi=0.2917 tau_K2=  113.958 tau_QFI=  98.901 ss_err=2.4e-04 last_exit=   nan  ok
+alpha=0.05   eps=0.2   tau=   96.779 chi=0.2577 tau_K2=   96.789 tau_QFI=  83.256 ss_err=2.4e-04 last_exit=   nan  ok
+alpha=0.1    eps=0.01  tau=  127.268 chi=0.4442 tau_K2=  127.400 tau_QFI= 121.460 ss_err=4.6e-04 last_exit=   nan  ok
+alpha=0.1    eps=0.05  tau=   89.783 chi=0.3860 tau_K2=   89.819 tau_QFI=  80.622 ss_err=4.6e-04 last_exit=   nan  ok
+alpha=0.1    eps=0.1   tau=   71.101 chi=0.3363 tau_K2=   71.123 tau_QFI=  63.456 ss_err=4.6e-04 last_exit=   nan  ok
+alpha=0.1    eps=0.15  tau=   59.176 chi=0.2963 tau_K2=   59.192 tau_QFI=  52.463 ss_err=4.6e-04 last_exit=   nan  ok
+alpha=0.1    eps=0.2   tau=   50.278 chi=0.2619 tau_K2=   50.290 tau_QFI=  44.238 ss_err=4.6e-04 last_exit=   nan  ok
+alpha=0.2    eps=0.01  tau=   80.511 chi=0.4526 tau_K2=   80.607 tau_QFI=  75.517 ss_err=8.7e-04 last_exit=   nan  ok
+alpha=0.2    eps=0.05  tau=   56.624 chi=0.3937 tau_K2=   56.652 tau_QFI=  52.054 ss_err=8.7e-04 last_exit=   nan  ok
+alpha=0.2    eps=0.1   tau=   44.849 chi=0.3434 tau_K2=   44.866 tau_QFI=  41.041 ss_err=8.7e-04 last_exit=   nan  ok
+alpha=0.2    eps=0.15  tau=   37.342 chi=0.3029 tau_K2=   37.355 tau_QFI=  33.991 ss_err=8.7e-04 last_exit=   nan  ok
+alpha=0.2    eps=0.2   tau=   31.742 chi=0.2681 tau_K2=   31.752 tau_QFI=  28.722 ss_err=8.7e-04 last_exit=   nan  ok
+alpha=0.3    eps=0.01  tau=   79.268 chi=0.4579 tau_K2=   79.371 tau_QFI=  74.105 ss_err=1.3e-03 last_exit=   nan  FAIL ii
+alpha=0.3    eps=0.05  tau=   55.562 chi=0.3986 tau_K2=   55.585 tau_QFI=  51.798 ss_err=1.3e-03 last_exit=   nan  FAIL ii
+alpha=0.3    eps=0.1   tau=   43.989 chi=0.3479 tau_K2=   44.001 tau_QFI=  40.852 ss_err=1.3e-03 last_exit=   nan  FAIL ii
+alpha=0.3    eps=0.15  tau=   36.619 chi=0.3072 tau_K2=   36.628 tau_QFI=  33.853 ss_err=1.3e-03 last_exit=   nan  FAIL ii
+alpha=0.3    eps=0.2   tau=   31.125 chi=0.2722 tau_K2=   31.132 tau_QFI=  28.631 ss_err=1.3e-03 last_exit=   nan  FAIL ii
+alpha=0.5    eps=0.01  tau=  163.088 chi=0.4634 tau_K2=  164.553 tau_QFI= 154.562 ss_err=3.7e-03 last_exit=   nan  FAIL ii
+alpha=0.5    eps=0.05  tau=   99.395 chi=0.4037 tau_K2=   99.481 tau_QFI=  93.620 ss_err=3.7e-03 last_exit=   nan  FAIL ii
+alpha=0.5    eps=0.1   tau=   75.354 chi=0.3527 tau_K2=   75.334 tau_QFI=  71.133 ss_err=3.7e-03 last_exit=   nan  FAIL ii
+alpha=0.5    eps=0.15  tau=   62.089 chi=0.3117 tau_K2=   62.062 tau_QFI=  58.539 ss_err=3.7e-03 last_exit=   nan  FAIL ii
+alpha=0.5    eps=0.2   tau=   52.628 chi=0.2764 tau_K2=   52.606 tau_QFI=  49.444 ss_err=3.7e-03 last_exit=   nan  FAIL ii
+alpha=0.7    eps=0.01  tau=      nan chi=0.4657 tau_K2=      nan tau_QFI=     nan ss_err=2.3e-02 last_exit=   nan  FAIL i,ii,iii,v
+alpha=0.7    eps=0.05  tau=  354.173 chi=0.4058 tau_K2=  353.866 tau_QFI= 332.841 ss_err=2.3e-02 last_exit=   nan  FAIL ii
+alpha=0.7    eps=0.1   tau=  253.615 chi=0.3547 tau_K2=  253.148 tau_QFI= 235.525 ss_err=2.3e-02 last_exit=   nan  FAIL ii
+alpha=0.7    eps=0.15  tau=  199.074 chi=0.3135 tau_K2=  198.649 tau_QFI= 184.918 ss_err=2.3e-02 last_exit=   nan  FAIL ii
+alpha=0.7    eps=0.2   tau=  162.229 chi=0.2782 tau_K2=  161.880 tau_QFI= 150.374 ss_err=2.3e-02 last_exit=   nan  FAIL ii
+alpha=1      eps=0.01  tau=      nan chi=0.4670 tau_K2=      nan tau_QFI=     nan ss_err=2.1e-01 last_exit=   nan  FAIL i,ii,iii,v
+alpha=1      eps=0.05  tau=      nan chi=0.4070 tau_K2=      nan tau_QFI=     nan ss_err=2.1e-01 last_exit=   nan  FAIL i,ii,iii,v
+alpha=1      eps=0.1   tau=      nan chi=0.3558 tau_K2=      nan tau_QFI=     nan ss_err=2.1e-01 last_exit=   nan  FAIL i,ii,iii,v
+alpha=1      eps=0.15  tau=      nan chi=0.3146 tau_K2=      nan tau_QFI=     nan ss_err=2.1e-01 last_exit=   nan  FAIL i,ii,iii,v
+alpha=1      eps=0.2   tau=      nan chi=0.2792 tau_K2=      nan tau_QFI=     nan ss_err=2.1e-01 last_exit=   nan  FAIL i,ii,iii,v
+RESULT: FAIL (38)

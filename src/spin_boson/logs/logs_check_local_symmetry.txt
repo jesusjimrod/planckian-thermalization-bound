@@ -1,0 +1,4 @@
+alpha=0.2 th=1.0: b_y=+0.0e+00  J_xy=-1.2e-16 J_zy=-1.2e-16  J_yy(fd)=-0.2229996  b_x/h_x=-0.2229996  ok=True  | control raw J_yy=+0.22299 -> rejected (good)
+alpha=2.0 th=1.0: b_y=+0.0e+00  J_xy=+0.0e+00 J_zy=+0.0e+00  J_yy(fd)=-0.0145347  b_x/h_x=-0.0145347  ok=True  | control raw J_yy=+0.01453 -> rejected (good)
+alpha=0.05 th=0.4: b_y=+0.0e+00  J_xy=+5.8e-17 J_zy=+3.5e-16  J_yy(fd)=-0.3795139  b_x/h_x=-0.3795139  ok=True  | control raw J_yy=+0.37948 -> rejected (good)
+RESULT: PASS

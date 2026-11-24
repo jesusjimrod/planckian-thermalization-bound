@@ -1,0 +1,7 @@
+[rt_maps] 13 TEMPO runs (dt=0.05, t_end=10.0, epsrel=1e-09)
+[rt_maps] 10/13 done
+alpha=0.1: t0 TTM=nan  polaron=2.66  ratio=nan  |  <tz> ss=-0.254682 MFG=-0.254764, Bures 3.7e-04  ok=True
+alpha=0.2: t0 TTM=6.68  polaron=6.78  ratio=0.986  |  <tz> ss=-0.257873 MFG=-0.257997, Bures 7.2e-04  ok=True
+alpha=0.3: t0 TTM=15.37  polaron=15.15  ratio=1.014  |  <tz> ss=-0.259891 MFG=-0.260040, Bures 1.1e-03  ok=False
+alpha=0.5: t0 TTM=63.74  polaron=63.05  ratio=1.011  |  <tz> ss=-0.261872 MFG=-0.262149, Bures 1.9e-03  ok=False
+RESULT: FAIL (2)

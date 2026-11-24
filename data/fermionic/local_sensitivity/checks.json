@@ -1,0 +1,31 @@
+{
+  "finite_difference_relative_change": 3.7433880615332e-12,
+  "rlm_occupation_readout_saturates": 2.9029078371658355e-10,
+  "convexity_common_shift_le_optimum": true,
+  "optimum_ge_all_directions": true,
+  "response_le_qfi": true,
+  "strong_coupling_mean1.1": {
+    "q": 0.18736987954752055,
+    "chi_dark": 0.43286028294515455,
+    "chi_dark_limit": 0.43286242565914695,
+    "chi_common": 0.21643037348251007,
+    "chi_common_limit": 0.21643121282957348,
+    "chi_opt": 0.43286028473910243,
+    "dark_weight_opt": 0.9999999965828916
+  },
+  "strong_coupling_mean2.35": {
+    "q": 0.07948532370965024,
+    "chi_dark": 0.28193010181144895,
+    "chi_dark_limit": 0.2819314166772661,
+    "chi_common": 0.1409654089884002,
+    "chi_common_limit": 0.14096570833863306,
+    "chi_opt": 0.28193010995560774,
+    "dark_weight_opt": 0.9999999717856842
+  },
+  "units": "hbar=beta=1, gamma=g^2, wide-band MFG",
+  "script_hash": "add93b05dddfc5cc1dc4273ff43729162f08d3fc07026002a014a3f634551183",
+  "engine_hashes": {
+    "wideband_reference.py": "578fed107a094472e1280e34952b7f40f85ac178340d078acee1b79777409d33",
+    "continuum.py": "65c50508e9c3245a9f912a7c1e631a59d7ff7686bafa9cda5ac3c5164333f916"
+  }
+}

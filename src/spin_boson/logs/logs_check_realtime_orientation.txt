@@ -1,0 +1,2 @@
+TEMPO vs exact: 1.1e-08   TEMPO vs exact^T (control): 4.3e-01   maps(PT) vs exact: 1.7e-08   max|<sy>|=0.43
+RESULT: PASS

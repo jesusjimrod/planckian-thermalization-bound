@@ -1,0 +1,12 @@
+ eps/eps_max  chi_pinned  chi_RLM(g2=0.01)  chi_RLM(g2=0.0147)  chi_bare   control(f(x/2))
+    0.01     0.467740     0.466434          0.465826          0.431393   0.233870 (rejected)  ok=True
+    0.05     0.407713     0.406495          0.405927          0.374230   0.203857 (rejected)  ok=True
+    0.10     0.356462     0.355316          0.354782          0.325432   0.178231 (rejected)  ok=True
+    0.15     0.315232     0.314143          0.313636          0.286184   0.157616 (rejected)  ok=True
+    0.20     0.279830     0.278787          0.278302          0.252493   0.139915 (rejected)  ok=True
+   TEMPO eps=0.01: chi(alpha=0.002)=0.43171 vs bare 0.43139 (diff +3.1e-04);  chi(alpha=5)=0.46773 vs pinned 0.46774 (diff -1.4e-05)
+   TEMPO eps=0.05: chi(alpha=0.002)=0.37452 vs bare 0.37423 (diff +2.9e-04);  chi(alpha=5)=0.40770 vs pinned 0.40771 (diff -1.4e-05)
+   TEMPO eps=0.10: chi(alpha=0.002)=0.32569 vs bare 0.32543 (diff +2.6e-04);  chi(alpha=5)=0.35645 vs pinned 0.35646 (diff -1.3e-05)
+   TEMPO eps=0.15: chi(alpha=0.002)=0.28643 vs bare 0.28618 (diff +2.4e-04);  chi(alpha=5)=0.31522 vs pinned 0.31523 (diff -1.3e-05)
+   TEMPO eps=0.20: chi(alpha=0.002)=0.25272 vs bare 0.25249 (diff +2.3e-04);  chi(alpha=5)=0.27982 vs pinned 0.27983 (diff -1.3e-05)
+RESULT: PASS

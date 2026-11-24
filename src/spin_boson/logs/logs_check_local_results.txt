@@ -1,0 +1,4 @@
+theta=1.5708: (i) 0.46228 vs weak 0.46212 [True]  (ii) 0.49999/0.50000, rot 0.49999/0.50000 [True]  (iii) max asym 6.0e-06 [True]  (iv) rich 1.0e-04, stencil 6.9e-05 [True]  (v) max chi 0.49999 [True]  (vi) [True]
+theta=1.0000: (i) 0.46173 vs weak 0.46212 [True]  (ii) 0.48228/0.48229, rot 0.40584/0.40584 [True]  (iii) max asym 2.5e-05 [True]  (iv) rich 1.0e-04, stencil 5.2e-05 [True]  (v) max chi 0.48228 [True]  (vi) [True]
+theta=0.4000: (i) 0.46058 vs weak 0.46212 [True]  (ii) 0.45129/0.45129, rot 0.17581/0.17574 [True]  (iii) max asym 4.7e-06 [True]  (iv) rich 1.0e-04, stencil 4.9e-05 [True]  (v) max chi 0.46058 [True]  (vi) [True]
+RESULT: PASS

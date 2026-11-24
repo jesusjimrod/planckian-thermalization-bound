@@ -1,0 +1,14 @@
+alpha=0.2 wc=10.0 beta=1.0: (a) eta''-C rel 3.9e-05  (b) double-int rel 1.0e-04  (c) vs OQuPy rel 8.1e-12  ok=True
+   failure control 'nothermal': 3.1e-01 -> rejected (good)
+   failure control 'imag': 6.1e-01 -> rejected (good)
+alpha=0.5 wc=5.0 beta=2.0: (a) eta''-C rel 1.1e-05  (b) double-int rel 2.7e-05  (c) vs OQuPy rel 1.2e-13  ok=True
+   failure control 'nothermal': 3.0e-01 -> rejected (good)
+   failure control 'imag': 4.4e-01 -> rejected (good)
+alpha=0.05 wc=20.0 beta=0.5: (a) eta''-C rel 1.0e-04  (b) double-int rel 4.1e-04  (c) vs OQuPy rel 1.1e-09  ok=True
+   failure control 'nothermal': 4.5e-01 -> rejected (good)
+   failure control 'imag': 7.0e-01 -> rejected (good)
+   info t=  2.5: eta closed=1.6065848645-4.6938364721j  OQuPy quad=1.6065848648-4.6938364714j  diff=7.8e-10
+   info t=  5.0: eta closed=3.1500712763-9.6898402014j  OQuPy quad=3.1500712767-9.6898402014j  diff=3.4e-10
+   info t= 10.0: eta closed=6.2640405021-19.6878406680j  OQuPy quad=6.2640405023-19.6878406712j  diff=3.2e-09
+   info t= 20.0: eta closed=12.5195254504-39.6868407263j  OQuPy quad=12.5195254369-39.6868407351j  diff=1.6e-08
+RESULT: PASS

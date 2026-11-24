@@ -1,0 +1,10 @@
+# Everything the three notebooks need. These are the versions the published figures were
+# produced with; the code does not depend on them and works with any recent release.
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+jupyterlab==4.4.9
+
+# Not required here. The spin-boson production code in src/spin_boson/ additionally needs
+#   oqupy==0.5.0
+# which pins numpy<2 and therefore belongs in a separate environment; see src/spin_boson/README.md.

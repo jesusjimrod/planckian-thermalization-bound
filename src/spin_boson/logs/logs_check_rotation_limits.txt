@@ -1,0 +1,6 @@
+eps=0.01: bare 0.45730 (TEMPO a_L=0.004: 0.45739)  pinned 0.46774 (TEMPO a_L=10: 0.46773)  pair u* bare 1.047 / pinned 0.831 rad  ok=True  control 0.41539 rejected
+eps=0.05: bare 0.38475 (TEMPO a_L=0.004: 0.38484)  pinned 0.39438 (TEMPO a_L=10: 0.39438)  pair u* bare 1.047 / pinned 1.047 rad  ok=True  control 0.32473 rejected
+eps=0.10: bare 0.29406 (TEMPO a_L=0.004: 0.29415)  pinned 0.30369 (TEMPO a_L=10: 0.30369)  pair u* bare 1.047 / pinned 1.047 rad  ok=True  control 0.24318 rejected
+eps=0.15: bare 0.20337 (TEMPO a_L=0.004: 0.20346)  pinned 0.21300 (TEMPO a_L=10: 0.21300)  pair u* bare 1.047 / pinned 1.047 rad  ok=True  control 0.16818 rejected
+eps=0.20: bare 0.11268 (TEMPO a_L=0.004: 0.11277)  pinned 0.12231 (TEMPO a_L=10: 0.12231)  pair u* bare 1.047 / pinned 1.047 rad  ok=True  control 0.09318 rejected
+RESULT: PASS
