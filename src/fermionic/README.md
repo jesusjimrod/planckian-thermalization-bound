@@ -113,8 +113,8 @@ The expressions in the code were checked line by line against Sec. IV and Append
 - `span` is the Fock-space seminorm $\sum_i|\lambda_i(k)|$; `ss_static` and `ss_variance` are the
   first and second forms of the chain of Eq. (11).
 
-One caveat on the figures. The `slowest_rate` column, plotted as the dotted curve in Fig. S1(b),
-is $\min_{|x|\leq\delta}2|\mathrm{Re}\,\lambda_+(x)|$, i.e. the inverse of the longest
-**occupation** relaxation time, $2\hbar g^2/\Delta^2$ at strong coupling. With the definition
-$\Gamma_{\rm slow}=\Delta^2/(4\hbar g^2)$ used in Sec. IV C — an amplitude rate — the caption's
-label $1/\Gamma_{\rm slow}$ is a factor 2 larger than what is drawn.
+- The `slowest_rate` column, plotted as the dotted curve in Fig. S1(b), is
+  $\min_{|x|\leq\delta}2|\mathrm{Re}\,\lambda_+(x)|$: the inverse of the longest
+  **occupation** relaxation time, $2\hbar g^2/\Delta^2$ at strong coupling. Since
+  $\Gamma_{\rm slow}=\Delta^2/(4\hbar g^2)$ of Sec. IV C is an *amplitude* rate, that curve is
+  $1/(2\Gamma_{\rm slow})$, as the figure and its caption label it.
